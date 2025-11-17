@@ -24,7 +24,7 @@ export const theme: ThemeUserConfig = {
   },
   /** Set a logo image to show in the homepage. */
   logo: {
-    src: '/ethan-avatar.png',
+    src: '/public/ethan-avatar.png',
     alt: 'Avatar'
   },
 
